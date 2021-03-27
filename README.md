@@ -9,3 +9,6 @@ new repo
 
 #running client:   ./client ip 8888 filename
 
+
+You can watch how the app works on https://streamable.com/vzjblb 
+
